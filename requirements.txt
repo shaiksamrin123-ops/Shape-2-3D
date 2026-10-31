@@ -1,5 +1,6 @@
 numpy==1.26.4
-pillow
+Pillow==10.1.0
 trimesh==4.0.5
-torch
-torchmcubes
+opencv-python
+networkx
+matplotlib

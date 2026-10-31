@@ -8,6 +8,7 @@ import torch
 
 from pathlib import Path
 from PIL import Image
+
 PROJECT = Path(__file__).resolve().parents[1]
 TRIPOSR = PROJECT / "models" / "TripoSR"
 OUTPUT_ROOT = PROJECT / "outputs" / "generated"
