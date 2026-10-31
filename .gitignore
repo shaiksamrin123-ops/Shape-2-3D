@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+outputs/
+models/TripoSR/
+*.pth
+*.ckpt
+*.safetensors
+.DS_Store
