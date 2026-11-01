@@ -127,6 +127,9 @@ Shape-2-3D/
 ├── vite.config.ts
 └── README.md
 ```
+##System Architecture: View Architecture Diagram
+
+https://drive.google.com/drive/u/0/home
 
 ## Future Improvements
 
