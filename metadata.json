@@ -1,0 +1,8 @@
+{
+  "name": "SKETCH2SHAPE AI",
+  "description": "Turn your sketches and images into 3D models with AI. Simple, student-friendly 3D generation tool for hackathons and rapid prototyping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
